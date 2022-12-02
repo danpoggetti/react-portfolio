@@ -11,7 +11,7 @@ function Project() {
         </a>
         <a href="https://danpoggetti.github.io/plant-scape/" target="_blank" className="flex-pics ProjectPlant">
           <div>
-            <h3>PLANT SCAPE PROJECT</h3><br />HTML/CSS/JAVASCRIPT
+            <h3>PLANT SCAPE PROJECT<br />HTML/CSS/JS</h3>
           </div>
         </a>
         <a href="https://danpoggetti.github.io/run-buddy/" target="_blank" className="flex-pics Project1">
@@ -26,17 +26,17 @@ function Project() {
         </a>
         <a href="https://danpoggetti.github.io/work-day-scheduler/" className="flex-pics Project3">
           <div>
-            <h3>Work Day Scheduler<br />HTML/CSS/JAVASCRIPT</h3>
+            <h3>Work Day Scheduler<br />HTML/CSS/JS</h3>
           </div>
         </a>
         <a href="https://danpoggetti.github.io/professional-readme-generator/" className="flex-pics Project4">
           <div>
-            <h3>ReadMe Generator<br />JAVASCRIPT</h3>
+            <h3>ReadMe Generator<br />JS</h3>
           </div>
         </a> 
-        <a href="#" className="flex-pics Project5">
+        <a href="https://danpoggetti.github.io/code-quiz/" className="flex-pics Project5">
           <div>
-            <h3>Coming Soon!</h3>
+            <h3>Code Quiz<br />HTML/CSS/JS</h3>
           </div>
         </a>
       </div>
