@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="./assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./src/images/logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">React Portfolio README</h3>
 
@@ -154,7 +154,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Here's a screen shot of what the app looks like when someone starts it.
 
-![](./images/react_port_live_view.png)
+![](./src/images/react_port_live_view.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
