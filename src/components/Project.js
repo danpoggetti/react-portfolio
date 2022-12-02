@@ -24,9 +24,9 @@ function Project() {
             <h3>Horiseon<br />HTML/CSS</h3>
           </div>
         </a>
-        <a href="#" className="flex-pics Project3">
+        <a href="https://danpoggetti.github.io/work-day-scheduler/" className="flex-pics Project3">
           <div>
-            <h3>Coming Soon!</h3>
+            <h3>Work Day Scheduler<br />HTML/CSS/JAVASCRIPT</h3>
           </div>
         </a>
         <a href="#" className="flex-pics Project4">
