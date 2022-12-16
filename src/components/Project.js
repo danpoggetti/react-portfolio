@@ -4,7 +4,12 @@ function Project() {
     return (
         <div>
             <div className="flex-parent">
-        <a href="https://blooming-gorge-35179.herokuapp.com/" target="_blank" className="flex-pics ProjectN">
+        <a href="https://github.com/crangel93/questionBoard/" target="_blank" className="flex-pics ProjectN">
+          <div>
+            <h3>QUESTION BOARD<br />FULL STACK</h3>
+          </div>
+        </a>
+        <a href="https://blooming-gorge-35179.herokuapp.com/" target="_blank" className="flex-pics ProjectJournal">
           <div>
             <h3>ONLINE JOURNAL<br />FULL STACK</h3>
           </div>

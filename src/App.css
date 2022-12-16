@@ -213,7 +213,11 @@ header nav a {
 }
 
 /* work section pictures */
+
 .ProjectN {
+  background-image: url("./images/questionboardhomepage.png")
+}
+.ProjectJournal {
   background-image: url("./images/online-journal-project.jpg");
 }
 
