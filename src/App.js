@@ -55,7 +55,7 @@ function App() {
                   </li>
                   <li>
                     Oversees daily managment, optimization and curation of 8
-                    social media accounats.
+                    social media accounts.
                   </li>
                   <li>
                     Build and send daily eNewsletter to 14,000+ double-opt in
